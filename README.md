@@ -63,20 +63,11 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DheerajKommineni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajKommineni&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajKommineni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKommineni&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DheerajKommineni&theme=onedark&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
