@@ -62,13 +62,9 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DheerajKommineni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajKommineni&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKommineni&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKommineni&layout=compact&theme=tokyonight)
 
 ---
 
