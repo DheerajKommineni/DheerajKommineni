@@ -58,13 +58,6 @@ I'm a **Software Engineer** passionate about building **scalable backend systems
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajKommineni&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajKommineni&layout=compact&theme=tokyonight)
 
 ---
 
