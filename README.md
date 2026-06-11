@@ -16,12 +16,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** passionate about building **scalable backend systems**, **cloud-native architectures**, and **AI-powered applications**. I thrive at the intersection of distributed systems engineering and intelligent automation — designing robust, production-grade solutions that are both performant and maintainable.
+I'm a Senior Software Engineer focused on building production-grade AI platforms, distributed systems, and cloud-native applications. My experience spans backend engineering, data platforms, machine learning systems, and modern AI architectures, with recent work centered on Retrieval-Augmented Generation (RAG), agentic workflows, forecasting, anomaly detection, and Responsible AI governance in regulated environments.
 
-- 🏗️ **Backend & Distributed Systems** — Microservices, event-driven architectures with Apache Kafka, and RESTful/GraphQL APIs using Spring Boot, FastAPI, and Flask
-- ☁️ **Cloud-Native Engineering** — Designing and deploying scalable, containerized workloads on AWS with Docker and Kubernetes
-- 🤖 **AI & LLM Engineering** — Building intelligent pipelines with OpenAI, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)
-- 🔧 **Full Stack Craftsmanship** — End-to-end engineering with React.js, Angular, and Node.js on the frontend, backed by robust APIs and data layers
+I enjoy solving complex business problems through practical AI solutions that can be deployed, monitored, governed, and scaled in production.
+
+- 🤖 AI Engineering — RAG systems, LangChain, LangGraph, agentic workflows, vector search, forecasting, anomaly detection, and AI platform development
+- 🏗️ Distributed Systems — Event-driven architectures, Kafka, microservices, workflow orchestration, and high-volume transaction processing
+- ☁️ Cloud & Platform Engineering — AWS, Kubernetes, Docker, CI/CD, observability, and production-scale deployments
+- 🔒 Responsible AI — Auditability, human-in-the-loop workflows, governance, monitoring, and secure enterprise AI deployments
 
 ---
 
